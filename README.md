@@ -1,12 +1,11 @@
-## Hi, I'm Benjamim Alves 👋
+## Hi, I'm Benjamim (yes with an M at the end not an N 😆) Alves 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/benjamimalves/)](https://www.linkedin.com/in/benjamimalves/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/benjamim_alves/)](https://twitter.com/benjamim_alves/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:info@benjamimalves.com)](mailto:info@benjamimalves.com)
 
-- 👨‍💻 Frontend Developer at [**tb.lx by Daimler Trucks & Buses**](https://tblx.io) with focus on ReactJs, NodeJs, JavaScript, TypeScript and Semantic HTML5
+- 👨‍💻 Senior Software Engineer at [**Cazoo**](https://www.cazoo.co.uk) with focus on ReactJs, NodeJs, JavaScript, TypeScript and Semantic HTML5
 - 🌱 Trying to learn more about: **Python and Java**
-- 😄 Pronouns: **benjas** or **benji** are welcome
 
 ![JavaScript](https://img.shields.io/badge/-javascript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
