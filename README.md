@@ -4,8 +4,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/benjamim_alves/)](https://twitter.com/benjamim_alves/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:info@benjamimalves.com)](mailto:info@benjamimalves.com)
 
-- 👨‍💻 Senior Software Engineer at [**Cazoo**](https://www.cazoo.co.uk) with focus on ReactJs, NodeJs, JavaScript, TypeScript and Semantic HTML5
-- 🌱 Trying to learn more about: **Python and Java**
+- 👨‍💻 Senior Software Engineer at [**PagerDuty**](https://www.pagerduty.com) with focus on ReactJs, NodeJs, JavaScript, TypeScript and Semantic HTML5
 
 ![JavaScript](https://img.shields.io/badge/-javascript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
