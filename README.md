@@ -1,7 +1,6 @@
 ## Hi, I'm Benjamim (yes with an M at the end not an N 😆) Alves 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/benjamimalves/)](https://www.linkedin.com/in/benjamimalves/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/benjamim_alves/)](https://twitter.com/benjamim_alves/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:info@benjamimalves.com)](mailto:info@benjamimalves.com)
 
 - 👨‍💻 Senior Software Engineer at [**PagerDuty**](https://www.pagerduty.com) with focus on ReactJs, NodeJs, JavaScript, TypeScript and Semantic HTML5
